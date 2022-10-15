@@ -1,3 +1,4 @@
+package MiniProje3MükemmelSayi;
 
 public class MiniProje3MükemmelSayılar {
 

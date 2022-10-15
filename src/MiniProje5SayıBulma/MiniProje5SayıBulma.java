@@ -1,3 +1,4 @@
+package MiniProje5SayıBulma;
 
 public class MiniProje5SayıBulma {
 

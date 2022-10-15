@@ -1,3 +1,4 @@
+package MiniProje1AsalSayi;
 
 public class MiniProje1AsalSayi {
 

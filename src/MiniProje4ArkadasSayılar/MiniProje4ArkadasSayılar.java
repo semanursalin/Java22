@@ -1,3 +1,4 @@
+package MiniProje4ArkadasSayılar;
 
 public class MiniProje4ArkadasSayılar {
 

@@ -1,3 +1,4 @@
+package MultiDimensionalArrayDemo;
 
 public class MultiDimensionalArrayDemo {
 

@@ -1,3 +1,4 @@
+package StringsDemo;
 
 public class StringsDemo {
 
